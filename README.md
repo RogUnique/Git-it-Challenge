@@ -5,7 +5,7 @@ Seja bem vindo ao repositório Git it Challenge, aqui você encontrará desafios
 
 - **Engitnhando** : Desafios fundamentais para aqueles que estão dando os seus primeiros passos no universo de versionamento com GIT,  estes desafios contarão com mais instruções e estruturas básicas já prontas.
 - **GITaria**: A pronuncia já revela o possível estado em que os participantes deste nível poderão adentrar. Os desafiados terão menos  estruturas de apoio prontas, pelo ao contrario: poderá haver códigos escritos com bugs propositais inseridos que terão que ser resolvidos para o sucesso do desafio. Também haverão trechos de códigos que deverão ser comitados por participante específicos para forçar uma  interdependência entre os códigos dos participantes. Ex: Participante A escreverá uma função que será usada pelo participante B dentro de outra função e o retorno dessa função será tratado pelo Participante C.
-- **Git** In Loop: Nível recursivo no qual os integrantes serão estimulados  a desenvolverem  desafios para serem adicionados ao repositório. 
+- **Git In Loop**: Nível recursivo no qual os integrantes serão estimulados  a desenvolverem  desafios para serem adicionados ao repositório. 
 
 
 
